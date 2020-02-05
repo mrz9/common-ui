@@ -1,0 +1,22 @@
+{
+  "name": "common-ui",
+  "version": "1.0.0",
+  "description": "封装自己常用的ui",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrz9/common-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrz9/common-ui/issues"
+  },
+  "homepage": "https://github.com/mrz9/common-ui#readme",
+  "devDependencies": {
+    "less": "^3.10.3"
+  }
+}
